@@ -1,6 +1,6 @@
 {
   "name": "heroku-config-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts cfg.json to Env vars format",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^8.0.1"
   }
 }
